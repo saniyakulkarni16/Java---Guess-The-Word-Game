@@ -7,6 +7,7 @@ A simple console-based Guess the Word game built using Java in Eclipse IDE. The 
 2.Letter-by-letter guessing with feedback
 3.Tracks correct and incorrect guesses
 4.Displays remaining attempts and the current state of the word
+5.If the letter guessed is correct the remaining attempts will be the same.
 
 🛠️ Technologies Used
 1.Java 2025-06
