@@ -9,6 +9,7 @@ A simple console-based Guess the Word game built using Java in Eclipse IDE. The 
 4.Displays remaining attempts and the current state of the word
 
 🛠️ Technologies Used
-Java 2025-06
-Eclipse IDE
-Java Console for I/O
+1.Java 2025-06
+2.JDK-24 
+3.Eclipse IDE
+4.Java Console for I/O
